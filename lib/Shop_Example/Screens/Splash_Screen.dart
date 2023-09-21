@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:statemanagement_provider/Screens/Home_screen.dart';
 import 'package:statemanagement_provider/Shop_Example/Screens/Login_Pages/Login.dart';
 
 void main() {
